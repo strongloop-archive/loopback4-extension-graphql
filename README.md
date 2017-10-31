@@ -1,4 +1,11 @@
-# loopback4-extension-graphql
-[![Gitter](https://badges.gitter.im/strongloop/loopback4-extension-graphql.svg)](https://gitter.im/strongloop/loopback4-extension-graphql?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# @loopback/graphql
 
-GraphQL Extension for LoopBack 4
+LoopBack extension for [GraphQL](http://graphql.org/).
+
+## Tests
+
+Run `npm test` from the root folder.
+
+## License
+
+MIT
